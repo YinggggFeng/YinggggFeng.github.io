@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yinggggfeng.github.io/yinggggfeng.github.io/sitemap.xml
+Sitemap: https://yinggggfeng.github.io/sitemap.xml
