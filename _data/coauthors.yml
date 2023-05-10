@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Woodruff":
+  - firstname: ["David P."]
+    url: http://www.cs.cmu.edu/~dwoodruf/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Li":
+  - firstname: ["Jiaoyang"]
+    url: https://jiaoyangli.me/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Paul":
+  - firstname: ["Adittyo"]
+    url: https://www.linkedin.com/in/adittyo-paul-4b4151246/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
