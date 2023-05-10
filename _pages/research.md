@@ -9,7 +9,7 @@ nav_order: 1
 ---
 I have broad interests throughout theoretical computer sceince. Currently, I'm particularly interested in algorithms under uncertainty. For example, solving problems on massive or evolving dataset, when only partial information is available.
 
-- One topic that I'm working on is robust algorithms under adversarial settings. A quoted from <a href='https://arxiv.org/abs/1611.03745'>Nanongkai and Saranurak</a>:
+- One topic that I'm working on is robust algorithms under adversarial settings. A quote from <a href='https://arxiv.org/abs/1611.03745'>Nanongkai and Saranurak</a>:
 > <sub>
 It is a fundamental question whether the true source of power of randomized dynamic algorithms is the randomness itself or in fact the *oblivious adversary* assumption.</sub>
 
