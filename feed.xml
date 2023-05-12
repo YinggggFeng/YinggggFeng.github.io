@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T05:35:31+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T08:39:15+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
 </subtitle><entry><title type="html">cmu courses</title><link href="https://yinggggfeng.github.io/courses/" rel="alternate" type="text/html" title="cmu courses" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://yinggggfeng.github.io/courses</id><content type="html" xml:base="https://yinggggfeng.github.io/courses/"><![CDATA[<p>This page contains a list of courses I have taken in cmu and some of my comments to them.</p>
 
 <p>Inspiration for this page came from: <a href="https://wanshenl.me/courses/reviews/">Wan Shen Lim</a>, <a href="https://fanpu.io/courses/">Fan Pu Zeng</a>, etc.</p>
@@ -18,14 +18,44 @@
 <hr />
 
 <h3 id="spring-2023">Spring 2023</h3>
+<nobr>
+&nbsp; &nbsp; <a href="https://www.andrew.cmu.edu/course/18-330/2023s/">15-330</a> &nbsp; <strong>Introduction to Computer Security</strong>
 
-<ul>
-  <li><a href="https://www.andrew.cmu.edu/course/18-330/2023s/">15-330</a>   <strong>Introduction to Computer Security</strong></li>
-  <li><a href="https://15445.courses.cs.cmu.edu/spring2023/">15-445</a>   <strong>Database Systems</strong></li>
-  <li><a href="https://www.cs.cmu.edu/~15455/index.html">15-455</a>   <strong>Undergraduate Complexity Theory</strong></li>
-  <li><a href="https://www.cs.cmu.edu/~15850/">15-850</a>   <strong>Advanced Algorithms</strong></li>
-  <li><a href="https://sites.google.com/view/cs15-859winter2023/home?authuser=0">15-859</a>   <strong>Topics in Cryptography: Lattice-Based Cryptography</strong></li>
-</ul>
+<details>
+  <summary>
+  
+  <a href="https://15445.courses.cs.cmu.edu/spring2023/">15-445</a> &nbsp; <strong>Database Systems</strong>
+  </summary>
+
+  <ul>
+    <li>text</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+  
+  <a href="https://www.cs.cmu.edu/~15455/index.html">15-455</a> &nbsp; <strong>Undergraduate Complexity Theory</strong>
+  </summary>
+
+  <ul>
+    <li>text</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+  
+  <a href="https://www.cs.cmu.edu/~15850/">15-850</a> &nbsp; <strong>Advanced Algorithms</strong>
+  </summary>
+
+  <ul>
+    <li>text</li>
+  </ul>
+</details>
+
+&nbsp; &nbsp; <a href="https://sites.google.com/view/cs15-859winter2023/home?authuser=0">15-330</a> &nbsp; <strong>Topics in Cryptography: Lattice-Based Cryptography</strong>
+</nobr>
 
 <hr />
 
