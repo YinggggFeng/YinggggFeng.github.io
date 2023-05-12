@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T00:28:39+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T00:37:32+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
 </subtitle><entry><title type="html">cmu courses</title><link href="https://yinggggfeng.github.io/courses/" rel="alternate" type="text/html" title="cmu courses" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://yinggggfeng.github.io/courses</id><content type="html" xml:base="https://yinggggfeng.github.io/courses/"><![CDATA[<p>This page contains a list of courses I have taken in cmu and some of my comments to them.</p>
 
 <p>Inspiration for this page came from: <a href="https://wanshenl.me/courses/reviews/">Wan Shen Lim</a>, <a href="https://fanpu.io/courses/">Fan Pu Zeng</a>, etc.</p>
@@ -9,7 +9,7 @@
 
 <ul>
   <li>
-    <p>As a context, I was admitted to <a href="https://www.cmu.edu/dietrich/">Dietrich College</a> in Fall 2020. I had zero knowledge in computer science before coming to cmu. My level of familiarity with math was somewhat below average in comparison to newly admitted cmu students. I spent most of my high school years and the first 1.5 year of college focusing on psychology, before I realized my interest in theoretical computer science.</p>
+    <p>As a context, I was admitted to <a href="https://www.cmu.edu/dietrich/">Dietrich College</a> in Fall 2020. I had zero knowledge in computer science before coming to cmu. My level of familiarity with math was somewhat below average compared to newly admitted cmu students. I spent most of my high school years and the first 1.5 year of college focusing on psychology, before I realized my interest in theoretical computer science.</p>
 
     <p>I’m in general more comfortable with proof-writing than coding. I also have a preference (?) for Fall semesters over Springs.</p>
   </li>
@@ -24,6 +24,17 @@
   <li><a href="https://www.cs.cmu.edu/~15455/index.html">15-455</a>   <strong>Undergraduate Complexity Theory</strong></li>
   <li><a href="https://www.cs.cmu.edu/~15850/">15-850</a>   <strong>Advanced Algorithms</strong></li>
   <li><a href="https://sites.google.com/view/cs15-859winter2023/home?authuser=0">15-859</a>   <strong>Topics in Cryptography: Lattice-Based Cryptography</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="fall-2022">Fall 2022</h3>
+<ul>
+  <li><a href="https://deeplearning.cs.cmu.edu/F22/index.html">11-485</a>   <strong>Introduction to Deep Learning</strong></li>
+  <li>15-312   <strong>Foundations of Programming Languages</strong></li>
+  <li><a href="http://www.cs.cmu.edu/~15451-f22/">15-451</a>   <strong>Algorithm Design and Analysis</strong></li>
+  <li><a href="http://www.cs.cmu.edu/afs/cs/user/dwoodruf/www/teaching/15859-fall22/index.html">15-859</a>   <strong>Algorithms for Big Data</strong></li>
+  <li>21-325   <strong>Probability</strong></li>
 </ul>
 
 <!-- ### Fall 2022
