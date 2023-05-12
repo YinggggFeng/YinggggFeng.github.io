@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T00:37:32+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://yinggggfeng.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yinggggfeng.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T05:35:31+00:00</updated><id>https://yinggggfeng.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage
 </subtitle><entry><title type="html">cmu courses</title><link href="https://yinggggfeng.github.io/courses/" rel="alternate" type="text/html" title="cmu courses" /><published>2023-05-10T00:00:00+00:00</published><updated>2023-05-10T00:00:00+00:00</updated><id>https://yinggggfeng.github.io/courses</id><content type="html" xml:base="https://yinggggfeng.github.io/courses/"><![CDATA[<p>This page contains a list of courses I have taken in cmu and some of my comments to them.</p>
 
 <p>Inspiration for this page came from: <a href="https://wanshenl.me/courses/reviews/">Wan Shen Lim</a>, <a href="https://fanpu.io/courses/">Fan Pu Zeng</a>, etc.</p>
@@ -18,6 +18,7 @@
 <hr />
 
 <h3 id="spring-2023">Spring 2023</h3>
+
 <ul>
   <li><a href="https://www.andrew.cmu.edu/course/18-330/2023s/">15-330</a>   <strong>Introduction to Computer Security</strong></li>
   <li><a href="https://15445.courses.cs.cmu.edu/spring2023/">15-445</a>   <strong>Database Systems</strong></li>
@@ -29,12 +30,71 @@
 <hr />
 
 <h3 id="fall-2022">Fall 2022</h3>
+
 <ul>
   <li><a href="https://deeplearning.cs.cmu.edu/F22/index.html">11-485</a>   <strong>Introduction to Deep Learning</strong></li>
   <li>15-312   <strong>Foundations of Programming Languages</strong></li>
   <li><a href="http://www.cs.cmu.edu/~15451-f22/">15-451</a>   <strong>Algorithm Design and Analysis</strong></li>
   <li><a href="http://www.cs.cmu.edu/afs/cs/user/dwoodruf/www/teaching/15859-fall22/index.html">15-859</a>   <strong>Algorithms for Big Data</strong></li>
   <li>21-325   <strong>Probability</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="spring-2022">Spring 2022</h3>
+
+<ul>
+  <li><a href="https://www.diderot.one/courses/121">15-210</a>   <strong>Parallel and Sequential Data Structures and Algorithms</strong></li>
+  <li><a href="https://www.andrew.cmu.edu/user/kpruiksm/15317s22/index.html">15-317</a>   <strong>Constructive Logic</strong></li>
+  <li><a href="https://cmu-17-214.github.io/s2022/">17-214</a>   <strong>Principles of Software Construction</strong></li>
+  <li>21-259   <strong>Calculus in Three Dimensions</strong></li>
+  <li>76-101   <strong>Interpretation and Argument</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="fall-2021">Fall 2021</h3>
+
+<ul>
+  <li><a href="http://www.cs.cmu.edu/~15150/">15-150</a>   <strong>Functional Programming</strong></li>
+  <li>15-251   <strong>Great Ideas in Theoretical Computer Science</strong></li>
+  <li>21-122   <strong>Integration and Approximation</strong></li>
+  <li>85-213   <strong>Human Information Processing and Artificial Intelligence</strong></li>
+  <li>85-219   <strong>Biological Foundations of Behavior</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="summer-2021">Summer 2021</h3>
+
+<ul>
+  <li><a href="https://www.cs.cmu.edu/~213/">15-213</a>   <strong>Introduction to Computer Systems</strong></li>
+  <li>21-241   <strong>Matrices and Linear Transformations</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="spring-2021">Spring 2021</h3>
+
+<ul>
+  <li><a href="https://www.cs.cmu.edu/~15122/">15-122</a>   <strong>Principles of Imperative Computation</strong></li>
+  <li>21-127   <strong>Concepts of Mathematics</strong></li>
+  <li>66-118   <strong>Grand Challenge First-Year Seminar: Thinking With Evidence</strong></li>
+  <li>76-100   <strong>Reading and Writing in an Academic Context</strong></li>
+  <li>85-107   <strong>The Psychology of Video Games</strong></li>
+  <li>99-358   <strong>IDeATe: Introduction to the Unity Game Engine</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="fall-2020">Fall 2020</h3>
+
+<ul>
+  <li><a href="https://www.cs.cmu.edu/~112/">15-112</a>   <strong>Fundamentals of Programming</strong></li>
+  <li>36-309   <strong>Experimental Design for Behavioral and Social Sciences</strong></li>
+  <li>79-104   <strong>Global Histories: History of Democracy</strong></li>
+  <li>80-212   <strong>Arguments and Logical Analysis</strong></li>
+  <li>85-102   <strong>Introduction to Psychology</strong></li>
 </ul>
 
 <!-- ### Fall 2022
