@@ -4,9 +4,10 @@ title: about
 permalink: /
 subtitle: 
 
+
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -20,6 +21,4 @@ Hi!
 
 I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I major in computer science, with a concentration in <a href='http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#algorithmsandcomplexitytextcontainer'>Algorithms and Complexity Theory</a>. My expected graduation date is December 2023.
 
-My academic interest is theoretical computer science in general. Currently, I am spending most of my time learning new mathematical and algorithmic topics to gain a better understanding of the field. For more details, please check out my [research](/research) page.
-
-(The picture of Einstein is to be replaced...)
+My academic interest is theoretical computer science in general. Currently, I am spending most of my time learning new algorithmic and mathematical topics to gain a better understanding of the field. For more details, please check out my [research](/research) page.
