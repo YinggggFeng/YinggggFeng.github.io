@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: Things I think about from time to time
-years: [2023]
+years: [2024, 2023]
 nav: true
 nav_order: 1
 ---
