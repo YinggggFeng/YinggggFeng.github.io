@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I major in computer science, with a concentration in <a href='http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#algorithmsandcomplexitytextcontainer'>Algorithms and Complexity Theory</a>. My expected graduation date is December 2023.
+I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I major in computer science, with a concentration in <a href='http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#algorithmsandcomplexitytextcontainer'>Algorithms and Complexity Theory</a>. 
 
-My academic interest is theoretical computer science in general. Currently, I am spending most of my time learning new algorithmic and mathematical topics to gain a better understanding of the field. For more details, please check out my [research](/research) page.
+My academic interest is theoretical computer science in general. For more details, please check out my [research](/research) page.
