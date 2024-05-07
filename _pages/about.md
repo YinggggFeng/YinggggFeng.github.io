@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+years: [2024, 2023]
 permalink: /
 subtitle: 
 
@@ -19,6 +20,19 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I major in computer science, with a concentration in <a href='http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#algorithmsandcomplexitytextcontainer'>Algorithms and Complexity Theory</a>. 
+I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I will be starting as a PhD student at MIT in Fall 2024.
 
-My academic interest is theoretical computer science in general. For more details, please check out my [research](/research) page.
+My academic interest is theoretical computer science in general. Currently, I'm particularly interested in algorithms for massive, high-dimensional, or evolving dataset.
+
+Followings are my publications and manucripts:
+
+&nbsp;
+
+<!-- _pages/publications.md -->
+<div class="publications">
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
