@@ -24,8 +24,13 @@ I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>Sc
 
 My academic interest is theoretical computer science in general. Currently, I'm particularly interested in algorithms for massive, high-dimensional, or evolving dataset.
 
-Followings are my publications and manucripts:
 
+<sub>
+My CMU email has expired. 
+Please contact me at {first name}{last name}@mit.edu
+<sup>
+
+&nbsp;
 &nbsp;
 
 <!-- _pages/publications.md -->
