@@ -22,15 +22,10 @@ Hi!
 
 I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I will be starting as a PhD student at MIT in Fall 2024.
 
-My academic interest is theoretical computer science in general. Currently, I'm particularly interested in algorithms for massive, high-dimensional, or evolving dataset.
+My academic interest is theoretical computer science in general. Currently, I'm particularly interested in algorithms for massive or high-dimensional data.
 
 
-<sub>
-My CMU email has expired. 
-Please contact me at {first name}{last name}@mit.edu
-<sup>
 
-&nbsp;
 &nbsp;
 
 <!-- _pages/publications.md -->
