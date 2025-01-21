@@ -5,7 +5,6 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ying
 last_name: Feng
-email: yingggfeng@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage
 footer_text: >
@@ -13,7 +12,7 @@ footer_text: >
 keywords:
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yinggggfeng.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

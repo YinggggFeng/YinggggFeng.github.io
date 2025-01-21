@@ -7,18 +7,6 @@ nav_order: 1
 
 ---
 
-- My hair color oscillates between blue and green.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
-    </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/me_blue.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-    </div>
-</div>
-
 - Some pictures of Echo:
 
 <div class="row justify-content-sm-center">
@@ -42,7 +30,3 @@ nav_order: 1
         {% include figure.html path="assets/img/sister2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-
-<!-- - Just like many of my fellow cmu students, I maintain a list of reviews for the courses that I have taken in cmu. However, while writing my reviews, I found them inevitably become very subjective (and potentially biased), so I decided to hide them [here](/courses). -->

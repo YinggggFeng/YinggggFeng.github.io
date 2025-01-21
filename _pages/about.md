@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: right
-  image: me.jpg
+  image: me.jpeg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -20,10 +20,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a fourth-year undergraduate student at <a href='https://www.cs.cmu.edu/'>School of Computer Science, Carnegie Mellon University</a>. I will be starting as a PhD student at MIT in Fall 2024.
+I am a first-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
 
-My academic interest is theoretical computer science in general. Currently, I'm particularly interested in algorithms for massive or high-dimensional data.
+My interest is theoretical computer science. Currently, I'm particularly interested in algorithms for massive or high-dimensional data.
 
+Email: yingggfeng(at)gmail.com
 
 
 &nbsp;
