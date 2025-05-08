@@ -2,9 +2,21 @@
   - firstname: ["David P."]
     url: http://www.cs.cmu.edu/~dwoodruf/
 
+
+"Song":
+  - firstname: ["Zhao"]
+    url: https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en
+
+"Zhang":
+  - firstname: ["Lichen"]
+    url: https://lczh.github.io/
+
+
 "Li":
   - firstname: ["Jiaoyang"]
     url: https://jiaoyangli.me/
+  - firstname: ["George Z."]
+    url: https://sites.google.com/view/gzli929/home
 
 "Paul":
   - firstname: ["Adittyo"]

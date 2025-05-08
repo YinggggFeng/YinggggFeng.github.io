@@ -539,40 +539,40 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: -1rem;
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 1rem;
     }
   }
 
   h2.year {
     color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
+    border-top: 0.5px solid var(--global-divider-color);
+    padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
   }
 
   ol.bibliography {
+    font-size: 0.85rem;
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin-top: -4.2rem;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: -2.5rem;
 
       .preview {
         width: 100%;
@@ -606,12 +606,13 @@ footer.sticky-bottom {
       }
 
       .title {
+        font-size: 1rem;
         font-weight: bolder;
       }
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 0.5px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
@@ -620,7 +621,7 @@ footer.sticky-bottom {
         }
 
         >em {
-          border-bottom: 1px solid;
+          border-bottom: 0.5px solid;
           font-style: normal;
         }
 
@@ -642,8 +643,8 @@ footer.sticky-bottom {
           border: 1px solid var(--global-text-color);
           padding-left: 1rem;
           padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
           margin-left: 0;
 
           &:hover {
@@ -669,7 +670,7 @@ footer.sticky-bottom {
       }
 
       .hidden {
-        font-size: 0.875rem;
+        font-size: 0.6rem;
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
