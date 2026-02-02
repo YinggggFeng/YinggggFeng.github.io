@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-years: [2025, 2024, 2023]
+years: [2026, 2025, 2024, 2023]
 permalink: /
 subtitle: 
 
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a first-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
+I am a second-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
 
 My interest is theoretical computer science. Currently, I'm particularly interested in algorithms for massive or high-dimensional data.
 
