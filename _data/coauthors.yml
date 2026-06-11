@@ -2,6 +2,21 @@
   - firstname: ["David P."]
     url: http://www.cs.cmu.edu/~dwoodruf/
 
+"Kapralov":
+  - firstname: ["Michael"]
+    url: https://theory.epfl.ch/kapralov/
+
+"Krachun":
+  - firstname: ["Dmitry"]
+    url: https://scholar.google.com/citations?user=7OMl40QAAAAJ&hl=en
+
+"Prokhorov":
+  - firstname: ["Boris"]
+    url: https://people.epfl.ch/boris.prokhorov?lang=en
+
+"Kochetkova":
+  - firstname: ["Ekaterina"]
+    url: https://ekaterina-kochetkova.github.io/e_kochetkova.github.io/
 
 "Feng":
   - firstname: ["Shiyuan"]
@@ -34,6 +49,8 @@
 "Chen":
   - firstname: ["Zhe"]
     url: https://www.linkedin.com/in/zhe-chen-12b16b137/
+  - firstname: ["Justin Y.", "Justin Y", "Justin"]
+    url: https://jusyc.github.io/
 
 "Jain":
   - firstname: ["Aayush"]

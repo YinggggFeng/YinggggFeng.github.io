@@ -2,6 +2,7 @@
 layout: about
 title: about
 years: [2026, 2025, 2024, 2023]
+manuyears: [2026]
 permalink: /
 subtitle: 
 

@@ -57,6 +57,15 @@ layout: default
           {% if page.selected_papers -%}
             <br>
             <h3>
+              <a style="color: inherit"></a><b>Manuscripts</b></a>
+            </h3>
+            {% include manuscripts.html %}
+          {% endif %}
+
+          <!-- Selected papers -->
+          {% if page.selected_papers -%}
+            <br>
+            <h3>
               <a style="color: inherit"></a><b>Publications</b></a>
             </h3>
             {% include selected_papers.html %}
