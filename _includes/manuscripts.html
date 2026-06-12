@@ -1,0 +1,8 @@
+
+<div class="publications">
+{%- for y in page.manuyears %}
+  <h2 class="year"><br></br></h2>
+  {% bibliography -f manus -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
