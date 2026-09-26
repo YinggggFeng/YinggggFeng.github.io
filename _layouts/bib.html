@@ -31,9 +31,10 @@
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
+        {% assign author_array_size = entry.author_array | size %}
+        {% if author_array_size > 0 %}
         <div class="author">
           with
-        {% assign author_array_size = entry.author_array | size %}
 
         {% assign author_array_limit = author_array_size %}
         {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
@@ -106,6 +107,7 @@
         {%- endif -%}
 
         </div>
+        {% endif %}
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
