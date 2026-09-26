@@ -23,7 +23,7 @@ Hi!
 
 I am a second-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
 
-My research is on provable algorithms for high-dimensional data. Recently, I'm interested in questions arising from efficient computation in machine learning systems.
+My research is on the algorithm design for high-dimensional data. Recently, I'm interested in questions arising from efficient computation in machine learning systems.
 
 Email: yingggfeng(at)gmail.com
 
