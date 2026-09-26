@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a second-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
+I am a third-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
 
 My research is on the algorithm design for high-dimensional data. Recently, I'm interested in questions arising from efficient computation in machine learning systems.
 
