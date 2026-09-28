@@ -71,6 +71,15 @@ layout: default
             {% include selected_papers.html %}
           {% endif %}
 
+          <!-- Technical reports -->
+          {% if page.selected_papers -%}
+            <br>
+            <h3>
+              <a style="color: inherit"></a><b>Technical Report</b></a>
+            </h3>
+            {% include technical_reports.html %}
+          {% endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
