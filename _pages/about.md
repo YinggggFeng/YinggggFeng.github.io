@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-years: [2026, 2025, 2024, 2023]
+years: [2027, 2026, 2025, 2024, 2023]
 manuyears: [2026]
 permalink: /
 subtitle: 
@@ -23,7 +23,7 @@ Hi!
 
 I am a third-year PhD student at MIT, where I am fortunate to be advised by <a href='https://people.csail.mit.edu/indyk/'>Piotr Indyk</a>. Before that, I was an undergrad at CMU.
 
-My research is on the algorithm design for high-dimensional data. Recently, I'm interested in questions arising from efficient computation in machine learning systems.
+My research interests are efficient LLM inference and high-dimensional retrieval, including KV-cache compression, quantization, approximate nearest neighbor search, and randomized data structures.
 
 Email: yingggfeng(at)gmail.com
 
